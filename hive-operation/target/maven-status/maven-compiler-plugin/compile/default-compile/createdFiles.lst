@@ -1,0 +1,5 @@
+com\cn\hbu\hive\domain\User.class
+com\cn\hbu\hive\web\UserController.class
+com\cn\hbu\hive\dao\UserDao.class
+com\cn\hbu\hive\service\impl\UserServiceImpl.class
+com\cn\hbu\hive\service\UserService.class
